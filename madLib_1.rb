@@ -1,4 +1,6 @@
 
+
+
 puts "input a noun"
 noun1 = gets.chomp
 puts "input another noun"
